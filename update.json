@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 338,
+  "latestVersionCode": 855,
   "isMandatory": true,
-  "updateUrl": "https://raw.githubusercontent.com/UzunSelcuk/FamilyDigitalLife-Releases/main/app-release.apk",
-  "releaseNotes": "Otomatik güncellenmiş yeni sürüm."
+  "updateUrl": "https://raw.githubusercontent.com/UzunSelcuk/FamilyDigitalLife-Releases/main/Screenee-Update.apk",
+  "releaseNotes": "Otomatik OTA Güncellemesi (Sürüm: 855)"
 }
